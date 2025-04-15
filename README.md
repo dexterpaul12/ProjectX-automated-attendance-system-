@@ -1,1 +1,1 @@
-# ProjectX-automated-attendance-system-
+# Scatter ProjectX-automated-attendance-system-
